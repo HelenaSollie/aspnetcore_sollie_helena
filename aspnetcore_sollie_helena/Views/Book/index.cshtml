@@ -1,0 +1,19 @@
+﻿@model BookListViewModel;
+
+@{ 
+    ViewData["title"] = "Overzicht boeken";
+}
+
+<div class="row">
+
+	<div class="col-md-12">
+
+		<ul>
+
+			@foreach (var book in Model.Books)
+			{
+            <li>@book</li>
+			}
+		</ul>
+</div>
+	</div>
