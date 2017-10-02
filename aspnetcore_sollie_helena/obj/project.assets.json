@@ -28886,10 +28886,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/Helena/Projects/aspnetcore_sollie_helena/aspnetcore_sollie_helena/aspnetcore_sollie_helena.csproj",
+      "projectUniqueName": "/Users/Helena/Documents/aspnetcore_sollie_helena/aspnetcore_sollie_helena/aspnetcore_sollie_helena.csproj",
       "projectName": "aspnetcore_sollie_helena",
-      "projectPath": "/Users/Helena/Projects/aspnetcore_sollie_helena/aspnetcore_sollie_helena/aspnetcore_sollie_helena.csproj",
-      "outputPath": "/Users/Helena/Projects/aspnetcore_sollie_helena/aspnetcore_sollie_helena/obj",
+      "projectPath": "/Users/Helena/Documents/aspnetcore_sollie_helena/aspnetcore_sollie_helena/aspnetcore_sollie_helena.csproj",
+      "outputPath": "/Users/Helena/Documents/aspnetcore_sollie_helena/aspnetcore_sollie_helena/obj",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp2.0"
