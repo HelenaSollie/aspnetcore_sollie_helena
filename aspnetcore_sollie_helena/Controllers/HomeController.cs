@@ -20,6 +20,8 @@ namespace aspnetcore_sollie_helena.Controllers
             ViewData["Message"] = "Your application description page.";
 
             return View();
+
+		
         }
 
         public IActionResult Contact()

@@ -7,7 +7,9 @@ namespace aspnetcore_sollie_helena.Models
 {
 	public class BookListViewModel
 	{
-		public List<BookDetailModel> Books { get; set; }
+		public List<BookDetailViewModel> Books { get; set; }
 		public DateTime GeneratedAt => DateTime.Now;
 	}
+
+	
 }

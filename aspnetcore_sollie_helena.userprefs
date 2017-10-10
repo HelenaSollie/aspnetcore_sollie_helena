@@ -1,13 +1,11 @@
 ﻿<Properties StartupConfiguration="{FE931356-9E3C-4FC0-88A3-6A447739E247}|Default">
   <MonoDevelop.Ide.ItemProperties.aspnetcore__sollie__helena PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="aspnetcore_sollie_helena/Models/BookListViewModel.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="aspnetcore_sollie_helena/Views/Book/Detail.cshtml">
     <Files>
-      <File FileName="aspnetcore_sollie_helena/Models/BookDetailModel.cs" Line="15" Column="9" />
-      <File FileName="aspnetcore_sollie_helena/Models/AboutModel.cs" Line="1" Column="1" />
-      <File FileName="aspnetcore_sollie_helena/Views/Book/index.cshtml" Line="18" Column="7" />
-      <File FileName="aspnetcore_sollie_helena/Models/BookListViewModel.cs" Line="6" Column="30" />
-      <File FileName="aspnetcore_sollie_helena/Controllers/Book2Controller.cs" Line="16" Column="28" />
-      <File FileName="aspnetcore_sollie_helena/Controllers/BookController.cs" Line="3" Column="16" />
+      <File FileName="aspnetcore_sollie_helena/Models/BookDetailViewModel.cs" Line="14" Column="3" />
+      <File FileName="aspnetcore_sollie_helena/Views/Book/index.cshtml" Line="9" Column="11" />
+      <File FileName="aspnetcore_sollie_helena/Controllers/BookController.cs" Line="26" Column="32" />
+      <File FileName="aspnetcore_sollie_helena/Views/Book/Detail.cshtml" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

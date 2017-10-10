@@ -10,3 +10,15 @@
 /Users/Helena/Projects/aspnetcore_sollie_helena/aspnetcore_sollie_helena/obj/Debug/netcoreapp2.0/aspnetcore_sollie_helena.AssemblyInfo.cs
 /Users/Helena/Projects/aspnetcore_sollie_helena/aspnetcore_sollie_helena/obj/Debug/netcoreapp2.0/aspnetcore_sollie_helena.dll
 /Users/Helena/Projects/aspnetcore_sollie_helena/aspnetcore_sollie_helena/obj/Debug/netcoreapp2.0/aspnetcore_sollie_helena.pdb
+/Users/Helena/Documents/aspnetcore_sollie_helena/aspnetcore_sollie_helena/obj/Debug/netcoreapp2.0/aspnetcore_sollie_helena.csprojResolveAssemblyReference.cache
+/Users/Helena/Documents/aspnetcore_sollie_helena/aspnetcore_sollie_helena/obj/Debug/netcoreapp2.0/aspnetcore_sollie_helena.csproj.CoreCompileInputs.cache
+/Users/Helena/Documents/aspnetcore_sollie_helena/aspnetcore_sollie_helena/obj/Debug/netcoreapp2.0/aspnetcore_sollie_helena.AssemblyInfoInputs.cache
+/Users/Helena/Documents/aspnetcore_sollie_helena/aspnetcore_sollie_helena/obj/Debug/netcoreapp2.0/aspnetcore_sollie_helena.AssemblyInfo.cs
+/Users/Helena/Documents/aspnetcore_sollie_helena/aspnetcore_sollie_helena/obj/Debug/netcoreapp2.0/aspnetcore_sollie_helena.dll
+/Users/Helena/Documents/aspnetcore_sollie_helena/aspnetcore_sollie_helena/obj/Debug/netcoreapp2.0/aspnetcore_sollie_helena.pdb
+/Users/Helena/Documents/aspnetcore_sollie_helena/aspnetcore_sollie_helena/bin/Debug/netcoreapp2.0/libe_sqlite3.dylib
+/Users/Helena/Documents/aspnetcore_sollie_helena/aspnetcore_sollie_helena/bin/Debug/netcoreapp2.0/aspnetcore_sollie_helena.deps.json
+/Users/Helena/Documents/aspnetcore_sollie_helena/aspnetcore_sollie_helena/bin/Debug/netcoreapp2.0/aspnetcore_sollie_helena.runtimeconfig.json
+/Users/Helena/Documents/aspnetcore_sollie_helena/aspnetcore_sollie_helena/bin/Debug/netcoreapp2.0/aspnetcore_sollie_helena.runtimeconfig.dev.json
+/Users/Helena/Documents/aspnetcore_sollie_helena/aspnetcore_sollie_helena/bin/Debug/netcoreapp2.0/aspnetcore_sollie_helena.dll
+/Users/Helena/Documents/aspnetcore_sollie_helena/aspnetcore_sollie_helena/bin/Debug/netcoreapp2.0/aspnetcore_sollie_helena.pdb
